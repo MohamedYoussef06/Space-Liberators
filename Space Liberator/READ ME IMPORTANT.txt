@@ -1,0 +1,12 @@
+Do not change the path of the window files, as many sprites rely on this specific path to load correctly. 
+If a white screen appears, it likely means the path has been altered. The correct format should be: window/window/Images.
+To play the game, please open your IDE like IntellJ and open the folder through your directory:
+users ---> Computer Name ---> Location where you downloaded the file -----> Click on Space Liberators and open.
+
+Then through that, you will have opened the folder through intellj. To find the launcher through Intellj, click through these folder:
+Space Liberators --> Window --> Window --> Window --> Launcher
+
+ENJOY!
+
+Note: Make sure to unzip the file before opening it through intellj.
+Another Note: Make sure when opening files through Intellj directory, you open the second space liberators and not the first main one

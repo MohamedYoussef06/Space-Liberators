@@ -1,0 +1,8 @@
+Hey – 2200
+Test – 2200
+Test2 – 2200
+TestLast – 2200
+hello – 400
+hello – 2200
+hello – 0
+Gamer – 2200
